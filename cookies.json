@@ -1,0 +1,332 @@
+[
+  {
+    "name": "XSRF-TOKEN",
+    "value": "c9d2e3cc-34a6-4f7e-a27f-8aebe6a805a2",
+    "domain": "api.hkprod.manulife.com.hk",
+    "path": "/ext/pos-qq-web-hkg-app",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "SESSIONID",
+    "value": "31bd02d3-8477-43c8-aef6-dc5ec083ac05",
+    "domain": "api.hkprod.manulife.com.hk",
+    "path": "/ext/pos-qq-web-hkg-app",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "ak_bmsc",
+    "value": "8ADD14110D255FEC229114EF7205C2ED~000000000000000000000000000000~YAAQstgjF83Xah6cAQAA1YXHNR7Nzm8xWQEtt1h+qn1LmO6hYDWZTPWE4hj4ABCQVJW7Ur/d+VBy+47HGfEteA8dLZWZJpYcBmlf8727A2HJVLkLnH9NPWNE3F6V87yNeVz7xZPNDAGlkbu5oJg3kYmgMWO6yhRQArJHUEX8bY7bweShd/VpzDMIOiqmVE9rTaSTQ1FhI9spzN1Pd9kSQWpHV6fWUFp3HZfbnTWBVYsOQGpZH6zH7xCx9WZvMX4a8+9sDi2VMwB9sM4Hk+VxjyyumopPmIMw3aigFXFj2fwPxCKnYg32uE2+Rvvx8JJ6J6UuM9wN7myALJkE0yjYsyaoA6MAyILpU1YO3eHPPQsv0ckGTC7u5972Q60GHRFA7yseUHNVFliucQAQ007qFECZFaby",
+    "domain": ".hkprod.manulife.com.hk",
+    "path": "/",
+    "expires": 1770435994.174127,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "LOGIN_MODE",
+    "value": "OIDC_LOGIN",
+    "domain": "api.hkprod.manulife.com.hk",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_interaction",
+    "value": "uDdaS0_B7c5IMBgE_f3X_",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": 1770429729.257007,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_interaction.sig",
+    "value": "nWuW1rCSGSM8noKBHfJHHrAf8Ug",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": 1770429729.257292,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_abck",
+    "value": "E48712FAF33CA19C656FAB222A900F47~-1~YAAQ0hQgF9Pa4x6cAQAABZjHNQ9RdgVdHOxd96Gf2IqAAKk8MGI9x2EsmjY5NSWOHln/14glW0Xo6ApNWotWqD28wNDQRw78rRNeLfXgKdF1aWpskzjkfc3vX3llmC5Vd4rri7woVW2tYOAGchroEXx0QA7paL2mWkF/Lm3C9pTcJGGY/pbg+s/Hnh2NypK4AGBnlcu+4n8By7agpIsR963UKP+127XZfKvv40AVVU18Ya50set3WykDqCGqKiRZWK9RD6Q/bL8dUUwZDzFbiu2XSWf/O/UXJMPU96EqlpHpcZRtgVyPTgF3+5VQ9hejNbf5tGp0SVUFFbXeMaDMBBr+0mgzb7t2tCwW5zNgPxCNN9dNLy5ecB0abNJ2rLcvxkEnognAIGB9aR2MJMfos1mSMdnznQV7MPu3ynr9LPR84/Z4bGdmerBxA6OUONRy0TgsInbeGWqRNA==~-1~-1~-1~-1~-1",
+    "domain": ".manulife.com",
+    "path": "/",
+    "expires": 1801964798.842335,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ak_bmsc",
+    "value": "B71D5A4D919DAEC3DA104975D0C21742~000000000000000000000000000000~YAAQ0hQgF9Ta4x6cAQAABZjHNR4qjx49DGDMb6FCWTkb+ZKG4rlnu+F+rKuIF4r4lFR2FRFnp4Ve78OJG6lF4hu+xiHdErgiNcA7NRN6tFVzPIp4ubAmj+prLCgp3mHd5amB6dVIsXKIBMi4gu2Gw9eaH/6T9ns97cy7T1mnahmFv34Iasv8dxefL1LkiYRreLaI70SczZN0YiMtWmRn0qsswbrsh56w7K8LAhX0qfVG7I2HBaTJeEqTNw56xA0BKda4ASM/H47LHLoB/UqImbcRHk6bgNEEMkb5+lnq/++tjE0RE0JrKKQAYQyOANFXIyEcsVArdHN6Na8uruDNtV2HB8i18wOoCt3N0oVrb9f2aTSs1z+26Lc+x/+k3dSxCtcsMGocjR9anhTGoQ==",
+    "domain": ".emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": 1770435998.842352,
+    "httpOnly": true,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "lang",
+    "value": "zh-hant",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cid",
+    "value": "a5938d65-4a77-447d-9351-edbbeaa26b2c",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "redirect",
+    "value": "https%3A%2F%2Fapi.hkprod.manulife.com.hk%2Fext%2Fpos-qq-web-hkg-app%2Fmcf%2Fauth%2Ftoken",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "country",
+    "value": "HK",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "app_lang",
+    "value": "undefined",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ui_country",
+    "value": "undefined",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "cname",
+    "value": "quick%20quotation",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "state",
+    "value": "channel-sales",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "nonce",
+    "value": "some-nonce",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "response_type",
+    "value": "code",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "gateway",
+    "value": "s%3A9kfEBHPPkA_hvEkRk08xC-kJQdjQ7LqS.A1nfm22zR%2FF35C0jAguLweeEC5x91Q4KVO7MZPTIwSA",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": 1770429729.258669,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "langRefresh",
+    "value": "false",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "demdex",
+    "value": "14576103316224960002626670108765745629",
+    "domain": ".demdex.net",
+    "path": "/",
+    "expires": 1785980801.114761,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "kndctr_37B127E253DB11F10A490D4E_AdobeOrg_identity",
+    "value": "CiYxNDU1NjY2MDU2ODY4MDIxNDU2MjYyODQ1NTk1MjkxNzIyNTk5N1ITCNLBnq7DMxABGAEqBEpQTjMwAPAB0sGersMz",
+    "domain": ".manulife.com",
+    "path": "/",
+    "expires": 1804556801,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "kndctr_37B127E253DB11F10A490D4E_AdobeOrg_cluster",
+    "value": "jpn3",
+    "domain": ".manulife.com",
+    "path": "/",
+    "expires": 1770430630,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "AMCV_37B127E253DB11F10A490D4E%40AdobeOrg",
+    "value": "MCMID|14556660568680214562628455952917225997",
+    "domain": ".manulife.com",
+    "path": "/",
+    "expires": 1804124801,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "gw_a",
+    "value": "822a9c0f5a1af2016a52e250125fd6f0aa71f226ba2aa039e4d90c732899dc2b00b514bf1a90801e27b612c4df741834bdbc0a8edda7a65c9e8fed6384b043096fa735b3784d6a865978b7c804428117a7100b045be173fccb79904deb67e7208dcbd9af28fb71d4a71fe27f3f73a37fbd9cd08ef5d37c9dd3efb5777549360d18ff0f3fc1b04f890ef939b4a6983058ef30a29ae3b83c98fd3f5a20db33773f873d2d98ee5e17bf5884cde516fd605446021936d0cb7eadf1ed3422dae620b9c6ba39c5846f09da8ffa3999e50a5e26ac80477764e549d174a26ace8a95b404306781951f02a3815e622491c841b1eda55e2efc992520d6c3a9108bb1b8ccff780405d9bfffc9f5fe87afd2292f4cc720a6df1a452cb914acc705ed02a2086f3a2cade9462b9eb78ce8b6055f1822044dee4a507fe9c31a88949c7756773ef5ddb8c25c94d1d91aee2786aa9b3e3ba748a4da5726da4bd9598f25340707d622c139d968ff63f6dcd18af79b19aac6c76f975a8aa9e8c09c81df5bf397e424c09246454827b7ab59934b18e30e9b6d965f86046a2fb97470371514da9eb8e4791200767b865a1d1fda680432b23ee1ca55820aebbb196549bf60a679179c8378b354e82fcc8e0168df955f4883ff3877dd1b2f28d28fb3bf2f4777844720bcb0a647e789c5b1d391e589ab3ffb31fa6eb75fcd305163cba12e6bc8efe551d24cb3196169c0cf8db0bbc3c9d22899d0917674b8d7c0836f93826c5ce19e8b9a3c4898a7b7918ed4b82bf247e8e9d83527b695d6aea9c747b13fa2901dfb86af5b3c9fa859a664e382a4fb24f239e180eeba7e37dd2b2ff97556cbdc7d53a0365483188df949ab9d11a82b001d94b4f536",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "gw_r",
+    "value": "822a9c0f5a1af2016a52e250125fd6f0aa71f226ba2aa039e4d90c732899dc2b00b514bf1a90801e27b612c4df741834bdbc0a8edda7a65c9e8fed6384b043096fa735b3784d6a865978b7c804428117a7100b045be173fccb79904deb67e720ed8774d8fc765d674ce20e9bfa82df214d040cc71d6f8b4837f55c655ee00e41c52d3b5f6a2257d7d3f1fb0ee1ac5ab723be84b76af43c67b154ad6a867b776afe9662b7aa263f52695a0c3f6c9ca9ade8e9da38017986574d1d696b9a5858fa9f021e08046a4cd6e0d32efb999ac88530e5a9ac02ee03c795c00710977e09c895bc893f87a0ebf5273bbaccf808e405c2ffb1a5aa0d757b22bbe53b34de6e5ed91e07b52484559e76523326bea91e74d3ae12e67ad7e69a863777d78aaeb1b21320dad3342e12a2a7f2ff00aee194298b7de19f04d398f4197675031ac3d8a9a974fe9c5c440dd51f5a397dee14a2bc897fc333df741c38c1c1510e11c2ea61f03e5b461a0849eab6f4999027773fcc8340f3ef0d56f068055e7aa037da198663a2a92a033501bdfd91c2a4280451904adc85e630429b1920541c2d9feed8d24852064f0172b6d15b954ee89a10de8675394fe4d2bc6f71c7df3829a6004ac264bf8c81d7b623acc077467aea51cc587ca13d70609aebb2fb1cc54da7ac35b0cdb564bf1a1ba4b76a7d94dc8a261c972988b5bd906841bd0d2a5da34c84b9bf11fdea6692e4b824a8d1cd361303b55a9607d587a5499ff841772dd83187ea83456b11dad10233a26f9c9ec9ca64069bfcae46af5b74c9f2ac80d04a88ec651289374f0a5b7a13131d653f3e790450069bd94a264ae60f48d4a33b44b5ada1b2",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "last_level",
+    "value": "ee1a130b812fb7b72509f783436cb9cd",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "a_n",
+    "value": "106dd61f8bf2ca6b50f3d7c150221b9e",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_session",
+    "value": "3jWjyeFfy5MIojM9iw2bU",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": 1770430630.207268,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_session.sig",
+    "value": "v0FBvkxhe_P0A2GPNplOxtUnuQ8",
+    "domain": "api.emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": 1770430630.207533,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bm_sv",
+    "value": "E206AC2EE58B20A8E1EAB056DD027D46~YAAQ0hQgF1ni4x6cAQAAjhLINR5vreRjCFjIPUgnfaifY85XQCty99v3drSU/nkAYC6RdyaIFHNZAfGw6IARH01x/CHPVtpr+EWE9InsD4KteiRapm8vTvdTt1QqM/9pmxQ4SgYx8O2XloWl86EfsGEcsAywFRbbiTn+k22N/1Dp93Bn/R/aByUqoXY7Nbs85xXvjC3e/VWBM7zG0OnHiQI+iaofW/X4jc6bNy7Fq41WkbhNIbHOU5rVnjr4HeI0qOmfNwZuIwriisRodcNx~1",
+    "domain": ".emmprd.asia.manulife.com",
+    "path": "/",
+    "expires": 1770435999.208274,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bm_sz",
+    "value": "A87B6801F0FEF418DB012B67E0DCF315~YAAQ0hQgF1ri4x6cAQAAjhLINR6arIIiA9zXBauPkJR8DQpaM9mZD4H2bh1gNw7Yqht78ZtzyjXiAfCVB/crzPDfUEL3hd6VtUt9qMimEBXQ3xaEF4RKYqPvUIVhnQdSGnqQoDUQeoklmScb9y00bXnt1jRpXKiqVu5MYcXPCHSOo+c7bU7hLXXfvZu9EH/dUmulv+fG9ZMIRHGX0ac9wWqo8UEhnTsi3psiiApnfn4h+6bGeCD8QNm6ffcOMYTWryGPG768uZgvupXBvjF1G5sCpQ/14pm/DBLvAe70ht2povkh+HH/gpaasMxcwcKYYFsmvRQtYa4tQe7AlwnAWFFxKOazfH0M8Uq8pD6bbPjQQNnIU3Um56avFYl5wJBl3L1k5aIx8IwupbdenQlgQZUCZjC2PQQxC862/hq/ePyNdijbRvcSq3zXKA==~4405302~3360307",
+    "domain": ".manulife.com",
+    "path": "/",
+    "expires": 1770443198.208499,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bm_sv",
+    "value": "821AD3E810214401AE30218BB80D8376~YAAQstgjF5rlah6cAQAA95TINR7VO1v31orDtNQlPYthNz8Gv2d0t4Gk0z4wrkTxX0iAbaeSxfc8T2XdzTmf8WLgP+ByIj2LZfcZraOUZ2zFdOPbEH5TWwmhBRAufjxHNjMK4Q7YOdYC1rPBWMPkYPHocFoW14ghBLqFauT0fXIg+l6m0RsBZ54EPRtZkSTbo/0R8kEKJGPTMEsHNNnjeGq7YScN+bbg0NCDpB0zg57A/xZmuEWH/ryPeCiyGc/HOOTmcxImB8BF3/okEA==~1",
+    "domain": ".hkprod.manulife.com.hk",
+    "path": "/",
+    "expires": 1770435996.678928,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  }
+]

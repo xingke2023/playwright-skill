@@ -7,8 +7,8 @@ downloads/
 download/
 
 # Sensitive files
-cookies.json
-cookie/
+#cookies.json
+#cookie/
 
 # Temporary files
 .temp-*.js
