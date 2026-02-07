@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Playwright
+screenshots/
+downloads/
+download/
+
+# Sensitive files
+cookies.json
+cookie/
+
+# Temporary files
+.temp-*.js
+*.log
+
+# OS files
+.DS_Store
+~
+
+# IDE
+.vscode/
+.idea/
+
+# Test results
+test-results/
+playwright-report/
+playwright/.cache/
